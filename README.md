@@ -1,6 +1,10 @@
-### Olá 👋:sunglasses:
+### Olá �
+�
+Eu sou o Wesley Franco, atualmente sou assistente de suporte em uma empresa de Tecnologia!
 
-Eu sou o Wesley Franco, atualmente faço projetos de HTML e CSS, e estou iniciando nos estudos de Javascript. 
+Desenvolvo soluções pessoal e profissionalmente utilizando diversas tecnologias. Entre elas, utilizo MySQL, NodeJS, Next.js/ou Express.
+
+Já desenvolvi algumas automações em Python, mas estou mais familiarizado com JavaScript.
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html_logo"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css_logo"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo">
 
