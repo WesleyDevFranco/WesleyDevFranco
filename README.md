@@ -1,6 +1,6 @@
 # Olá, eu sou o Wesley 👋
 
-Desenvolvedor em Curitiba, PR. Cheguei ao desenvolvimento pelo caminho do suporte — então aprendi a ler log, apagar incêndio em produção e entender o custo de um bug **antes** de escrever a feature que o evita.
+Desenvolvedor em Curitiba, PR. Cheguei ao desenvolvimento pelo caminho do suporte — então aprendi a ler log, apagar incêndio em produção e entender o custo de um bug **antes** de escrever a feature que o evita. Tive a experiência de ler código desde ANTES da IA.
 
 ### O que eu faço
 
