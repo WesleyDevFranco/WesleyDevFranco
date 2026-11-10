@@ -1,4 +1,12 @@
-  
+# Olá, eu sou o Wesley
+
+<table>
+  <tr>
+    <td>
+<pre>
+                                  ,,,,:
+                                 ,,,,,,
+                         ::::::,::,,,,,,
                       :::::::::::,,,,,:,
                     ::,,,,,,,,,,:,,:,,,,:
                   ,,,,,:::,,,,,,,,,:,,,,::
@@ -35,19 +43,36 @@
 ~:~~--~+=~=~=~~~++=~-=++~~~~-~~~~===*+==-=~=*%+~+--~=~~~~~
 ~:-~---~==~----~=++=~~=*~~-~-~~-~===+*=~-===*%==~:-~~--~~~
 -::~-::-~~------=++=~~~*=~-~-~~-~==~=*=~-~==++=~:----:-~--
+</pre>
+    </td>
+    <td valign="top">
+<pre>
 wesley@grant
 -----------------
-OS:                    Zorin OS
-Currently working at:  LW Tecnologia
-Kernel:                Software Developer
-IDE:                   VSCode
-Languages.Programming: JavaScript, TypeScript, Python, React, PHP
-Languages:    HTML, CSS, JSON, SQL
+OS:                    Windows 10, Android 14, Linux
+Uptime:                22 years, 5 months, 29 days
+Host:                  LW Tecnologia
+Kernel:                Junior Dev & Support Analyst
+IDE:                   VSCode 1.96.0, Zorin OS
+&nbsp;
+Languages.Programming: JavaScript, TypeScript, Python
+Languages.Computer:    HTML, CSS, JSON, SQL
 Languages.Real:        Portuguese, English
-
-
+&nbsp;
 Hobbies.Software:      Automation, n8n, Docker
-
+Hobbies.Hardware:      Custom Rigs, Overclocking
+&nbsp;
 Contact
-
-Email.Personal:        francobusiness34@gmail.com
+-----------------------
+Email.Work:            francobusiness34@gmail.com
+&nbsp;
+GitHub Stats
+-----------------------
+Repos:      12 (Contributed: 45)  | Stars:  28
+Commits:    1.420                 | Followers: 42
+Lines of Code on GitHub:          124.276 (+98.178--, 26.098--)
+&nbsp;
+</pre>
+    </td>
+  </tr>
+</table>
