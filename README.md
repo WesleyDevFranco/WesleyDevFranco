@@ -1,3 +1,7 @@
+<table border="0">
+<tr>
+<td width="50%" valign="top">
+
 ```text
 cccccccccccccccc;cc',;;'.  .... .......... o0Ol0KKKclll,;;;;:::
 cccccccccccccccc,cc,';.    .        ...... ..cxlOKKKllll;:;;;;:c
@@ -31,3 +35,13 @@ OO0Odl;;;;;:cllddlcl,.';;'.'',,,;::lx0XKOdxxxkOOOOxlo:::,..ckXK
 c:,:c;;:loooc:ll,:xxxdooddoc;oddol;::c;,;xdlx:;x0Oc,cxx:;.;odo0
 clc:llcc:ldddc:::,:xkkxxxkdl;';',,'',;,:kkxldc;k0Ol;:xxc;,:oOOX
 xddxkxokdcldxdclll:cxkOkdolll:::ollooldOOxkldl:kKkc;,odl::co0KK
+
+> sys.info --user
+-----------------------------------------------
+[OS]         Linux x86_64
+[SHELL]      /bin/zsh
+[ROLE]       Developer & Support Analyst
+[STACK]      JS · TS · Node.js · React · Python
+[ENV]        Docker · PostgreSQL · Git
+[STATUS]     Building digital tools & terminal stuff...
+-----------------------------------------------
