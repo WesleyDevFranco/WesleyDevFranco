@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="384" viewBox="0 0 1200 384" role="img" aria-label="final_v3_REALLY_FINAL.xlsx — I'll automate anything done by hand.">
+  <defs>
+    <linearGradient id="hl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#a3e635"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace; }
+      .sans { font-family: -apple-system, "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+      .file { fill: #8b949e; font-size: 15px; }
+      .title { font-size: 44px; font-weight: 800; fill: url(#hl); }
+      .sub { fill: #8b949e; font-size: 18px; }
+      .hd { fill: #6e7681; font-size: 15px; }
+      .cell { fill: #e6edf3; font-size: 17px; }
+      .old { fill: #e6edf3; font-size: 17px; animation: strike .4s ease-out forwards; }
+      .pending { fill: #f85149; font-size: 17px; animation: out .3s ease-in forwards; }
+      .done { fill: #3fb950; font-size: 17px; font-weight: 700; opacity: 0; animation: in .4s ease-out forwards; }
+      .flash { fill: #3fb950; opacity: 0; animation: flash .9s ease-out forwards; }
+      .cursor { fill: #3fb950; animation: blink 1s steps(1) infinite; }
+      @keyframes strike { to { fill: #6e7681; text-decoration: line-through; } }
+      @keyframes out { to { opacity: 0; } }
+      @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+      @keyframes flash { 0% { opacity: 0; } 30% { opacity: .28; } 100% { opacity: .08; } }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+  <rect width="1200" height="384" rx="16" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="383" rx="16" fill="none" stroke="#30363d"/>
+  <rect x="0" y="0" width="1200" height="44" rx="16" fill="#107c41"/>
+  <rect x="0" y="28" width="1200" height="16" fill="#107c41"/>
+  <text x="40" y="28" class="sans" fill="#fff" font-size="15" font-weight="700">X</text>
+  <text x="600" y="28" text-anchor="middle" class="mono" fill="#e6ffed" font-size="15">final_v3_REALLY_FINAL.xlsx</text>
+  <text x="40" y="104" class="sans title">I'll automate anything done by hand.</text>
+  <text x="40" y="134" class="mono sub">Wesley Franco · full-stack developer · Curitiba, BR <tspan class="cursor">▌</tspan></text>
+    <rect x="40" y="150" width="1120" height="38" fill="#161b22"/>
+  <text x="54" y="175" class="mono hd"></text>
+  <text x="94" y="175" class="mono hd">A · task</text>
+  <text x="484" y="175" class="mono hd">B · before</text>
+  <text x="814" y="175" class="mono hd">C · after</text>
+  <rect x="40" y="188" width="1120" height="38" fill="#0d1117"/>
+  <rect x="800" y="188" width="360" height="38" class="flash" style="animation-delay:1.2s"/>
+  <text x="54" y="213" class="mono hd">1</text>
+  <text x="94" y="213" class="mono cell">License plate stamping</text>
+  <text x="484" y="213" class="mono old" style="animation-delay:1.2s">spreadsheets</text>
+  <text x="814" y="213" class="mono pending" style="animation-delay:1.2s">… manual</text>
+  <text x="814" y="213" class="mono done" style="animation-delay:1.3499999999999999s">✓ 40+ h/month back</text>
+  <rect x="40" y="226" width="1120" height="38" fill="#0d1117"/>
+  <rect x="800" y="226" width="360" height="38" class="flash" style="animation-delay:2.1s"/>
+  <text x="54" y="251" class="mono hd">2</text>
+  <text x="94" y="251" class="mono cell">100k-vehicle screen</text>
+  <text x="484" y="251" class="mono old" style="animation-delay:2.1s">10 s to load</text>
+  <text x="814" y="251" class="mono pending" style="animation-delay:2.1s">… manual</text>
+  <text x="814" y="251" class="mono done" style="animation-delay:2.25s">✓ 3 s</text>
+  <rect x="40" y="264" width="1120" height="38" fill="#0d1117"/>
+  <rect x="800" y="264" width="360" height="38" class="flash" style="animation-delay:3.0s"/>
+  <text x="54" y="289" class="mono hd">3</text>
+  <text x="94" y="289" class="mono cell">Federal agency lookups</text>
+  <text x="484" y="289" class="mono old" style="animation-delay:3.0s">5–6 / min</text>
+  <text x="814" y="289" class="mono pending" style="animation-delay:3.0s">… manual</text>
+  <text x="814" y="289" class="mono done" style="animation-delay:3.15s">✓ 10–12 / min</text>
+  <rect x="40" y="302" width="1120" height="38" fill="#0d1117"/>
+  <rect x="800" y="302" width="360" height="38" class="flash" style="animation-delay:3.9000000000000004s"/>
+  <text x="54" y="327" class="mono hd">4</text>
+  <text x="94" y="327" class="mono cell">Signature forgery check</text>
+  <text x="484" y="327" class="mono old" style="animation-delay:3.9000000000000004s">100% manual</text>
+  <text x="814" y="327" class="mono pending" style="animation-delay:3.9000000000000004s">… manual</text>
+  <text x="814" y="327" class="mono done" style="animation-delay:4.050000000000001s">✓ ML, 80%+ auto</text>
+  <line x1="40" y1="150" x2="1160" y2="150" stroke="#30363d"/>
+  <line x1="40" y1="188" x2="1160" y2="188" stroke="#30363d"/>
+  <line x1="40" y1="226" x2="1160" y2="226" stroke="#30363d"/>
+  <line x1="40" y1="264" x2="1160" y2="264" stroke="#30363d"/>
+  <line x1="40" y1="302" x2="1160" y2="302" stroke="#30363d"/>
+  <line x1="40" y1="340" x2="1160" y2="340" stroke="#30363d"/>
+  <line x1="40" y1="150" x2="40" y2="340" stroke="#30363d"/>
+  <line x1="80" y1="150" x2="80" y2="340" stroke="#30363d"/>
+  <line x1="470" y1="150" x2="470" y2="340" stroke="#30363d"/>
+  <line x1="800" y1="150" x2="800" y2="340" stroke="#30363d"/>
+  <line x1="1160" y1="150" x2="1160" y2="340" stroke="#30363d"/>
+  <text x="40" y="370" class="mono hd">=AUTOMATE(A1:A4)  →  4 of 4 rows done</text>
+</svg>
